@@ -21,6 +21,12 @@ Aplicación móvil que demuestra el uso de SharedPreferences para persistencia d
 - Contador de aperturas de la aplicación con botón de reset
 - Formulario de datos personales persistente
 
+### Rama original
+
+[https://github.com/josevasquezramos/app_s9/tree/feature/AmazingFeature](https://github.com/josevasquezramos/app_s9/tree/feature/AmazingFeature)
+
+### Capturas de pantalla
+
 <img src="https://github.com/user-attachments/assets/d9cd9d3b-d099-4371-a6af-35d5aecd8c11" width="250" alt="Captura 1" />
 <img src="https://github.com/user-attachments/assets/c342ce3b-cd8c-43b9-9848-7666ccedd294" width="250" alt="Captura 2" />
 <img src="https://github.com/user-attachments/assets/786dde15-b193-4852-8c8a-bbdd771b32fd" width="250" alt="Captura 3" />
